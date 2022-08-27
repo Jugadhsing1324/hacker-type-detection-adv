@@ -1,5 +1,5 @@
 body{
-    background-size:contain;
+    background-size:cover;
     background-position: center;
     }
     .heading
@@ -22,4 +22,8 @@ body{
     .anchor{
      
       font-size: 30px;
+    }
+
+    .back{
+       float: right;
     }
